@@ -1,1 +1,3 @@
-# rust-0401-structs
+# 0401: Structs
+
+Material for the Rust Programming course @ SAMK
