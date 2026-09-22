@@ -89,7 +89,7 @@ fn field_init() {
 ///   struct value.
 fn struct_update() {
     println!("\n{:=>80}", "");
-    println!("creating_a_variant_with_struct_update_syntax()\n");
+    println!("struct_update()\n");
 
     let village_guard = Character {
         name: String::from("Liinu"),
